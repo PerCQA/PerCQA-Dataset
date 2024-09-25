@@ -32,8 +32,8 @@ Community Question Answering (CQA) forums provide answers to many real-life ques
 - 📜 [PDF](https://aclanthology.org/2022.lrec-1.654.pdf)
 
 ## Contact:
-- Email: [njamali@ipm.ir](mailto:njamali@ipm.ir)
-- LinkedIn: [linkedin.com/in/njamali](https://linkedin.com/in/njamali)
+- Email: [naghme.jamali.ai@gmail.com](mailto:naghme.jamali.ai@gmail.com)
+- LinkedIn: [linkedin.com/in/naghmeh-jamali-0382a0172](https://linkedin.com/in/naghmeh-jamali-0382a0172)
 
 ## Citation:
 If you use **PerCQA** in your work, please cite the following paper:
